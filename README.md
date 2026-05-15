@@ -2,47 +2,46 @@
 
 ## Sobre o Repositório
 
-Este repositório foi desenvolvido para a disciplina Bootcamp I com o objetivo de organizar projetos acadêmicos e documentos profissionais.
+Este repositório foi desenvolvido para a disciplina Bootcamp I com o objetivo de organizar projetos acadêmicos e documentos profissionais utilizando GitHub e versionamento.
 
-O diretório reúne materiais acadêmicos, portfólio, currículo e projetos desenvolvidos durante a graduação.
+O diretório reúne materiais acadêmicos, currículo, portfólio e projetos desenvolvidos durante a graduação.
 
 ---
 
-# Estrutura do Diretório
+## Estrutura do Diretório
 
-## /curriculo
+### /curriculo
 Contém o currículo profissional em PDF.
 
-## /portfolio
+### /portfolio
 Contém o portfólio acadêmico e profissional.
 
-## /projeto-tic
+### /projeto-tic
 Contém informações relacionadas ao projeto acadêmico de Estrutura de Tecnologia da Informação (TIC).
 
-## /imagens
-Pasta destinada às imagens presentes no site do GitHub Pages.
+### /imagens
+Pasta destinada às imagens utilizadas no site do GitHub Pages.
 
-## /assets
+### /assets
 Arquivos auxiliares utilizados no site do GitHub Pages.
 
 ---
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - GitHub
 - GitHub Desktop
 - GitHub Pages
 - HTML
-- Bloco de Notas
 
 ---
 
-# GitHub Pages
+## GitHub Pages
 
-Link para meu site do GitHub Pages: https://rafaellage-dev.github.io/PortfolioHUB/
+🔗 https://rafaellage-dev.github.io/PortfolioHUB/
 
 ---
 
-# Autor
+## Autor
 
 Rafael Nogueira Lage
