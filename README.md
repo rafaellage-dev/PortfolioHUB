@@ -4,7 +4,7 @@
 
 Este repositório foi desenvolvido para a disciplina Bootcamp I com o objetivo de organizar projetos acadêmicos e documentos profissionais utilizando GitHub e versionamento.
 
-O diretório reúne materiais acadêmicos, currículo, portfólio e projetos desenvolvidos durante a graduação.
+O diretório reúne site, currículo, portfólio e projetos desenvolvidos durante a graduação.
 
 ---
 
