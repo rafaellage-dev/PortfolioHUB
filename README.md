@@ -1,27 +1,48 @@
-# Rafael Nogueira Lage
+# PortfolioHUB - Rafael Nogueira Lage
 
-## Sobre Mim
+## Sobre o Repositório
 
-Sou estudante de Ciência da Computação no UNICEUB e de Administração na UNINTER, com interesse nas áreas de tecnologia, gestão e idiomas.
+Este repositório foi desenvolvido para a disciplina Bootcamp I com o objetivo de organizar projetos acadêmicos e documentos profissionais.
 
-## Formação Acadêmica
+O diretório reúne materiais acadêmicos, portfólio, currículo e projetos desenvolvidos durante a graduação.
 
-- Ciência da Computação — UNICEUB
-- Administração — UNINTER
+---
 
-## Projetos
+# Estrutura do Diretório
 
-### Estrutura de Tecnologia da Informação (TIC)
-Projeto acadêmico voltado à análise e organização de sistemas de TI.
+## /curriculo
+Contém o currículo profissional em PDF.
 
-## Idiomas
+## /portfolio
+Contém o portfólio acadêmico e profissional.
 
-- Português — Nativo
-- Francês — Fluente
-- Inglês — Fluente
-- Espanhol — Básico
+## /projeto-tic
+Contém informações relacionadas ao projeto acadêmico de Estrutura de Tecnologia da Informação (TIC).
 
-## Contato
+## /imagens
+Pasta destinada às imagens presentes no site do GitHub Pages.
 
-- Email: rlage2007@gmail.com
-- LinkedIn: www.linkedin.com/in/rafael-nogueira-lage
+## /assets
+Arquivos auxiliares utilizados no site do GitHub Pages.
+
+---
+
+# Tecnologias Utilizadas
+
+- GitHub
+- GitHub Desktop
+- GitHub Pages
+- HTML
+- Bloco de Notas
+
+---
+
+# GitHub Pages
+
+Link para meu site do GitHub Pages: https://rafaellage-dev.github.io/PortfolioHUB/
+
+---
+
+# Autor
+
+Rafael Nogueira Lage
