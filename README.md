@@ -21,6 +21,10 @@ Projeto acadêmico voltado à análise e organização de sistemas de TI.
 - Inglês — Fluente
 - Espanhol — Básico
 
+## Cursos Complementares
+
+Curso de espanhol – Centro Interescolar de Línguas (CIL)
+
 ## Contato
 
 - Email: rlage2007@gmail.com
