@@ -17,6 +17,6 @@ Realizar o mapeamento e estruturação de informações relacionadas aos sistema
 
 ## Autores
 
-Rafael Nogueira Lage
-Edilson da Silva Oliveira Junior
-João Pedro Machado Figueiredo Menezes
+- Rafael Nogueira Lage
+- Edilson da Silva Oliveira Junior
+- João Pedro Machado Figueiredo Menezes
