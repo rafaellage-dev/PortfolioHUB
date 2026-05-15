@@ -24,4 +24,5 @@ Projeto acadêmico voltado à análise e organização de sistemas de TI.
 ## Contato
 
 - Email: rlage2007@gmail.com
-- LinkedIn: www.linkedin.com/in/rafael-nogueira-lage
+- LinkedIn: https://www.linkedin.com/in/rafael-nogueira-lage
+- GitHub Pages: https://rafaellage-dev.github.io/PortfolioHUB/
