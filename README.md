@@ -37,6 +37,12 @@ Arquivos auxiliares utilizados no site do GitHub Pages.
 
 ---
 
+# GitHub Pages
+
+Link para meu site do GitHub Pages: 
+
+---
+
 # Autor
 
 Rafael Nogueira Lage
