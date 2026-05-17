@@ -42,6 +42,13 @@ Arquivos auxiliares utilizados no site do GitHub Pages.
 
 ---
 
+## LinkedIn
+
+🔗 https://www.linkedin.com/in/rafael-nogueira-lage/
+
+---
+
+
 ## Autor
 
 Rafael Nogueira Lage
